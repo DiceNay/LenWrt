@@ -1,10 +1,10 @@
 <div align="center">
-<img width="768" src="https://cdn.jsdelivr.net/gh/haiibo/OpenWrt/images/openwrt.png"/>
-<h1>OpenWrt — 固件云编译</h1>
+<img width="384" src="https://cdn.jsdelivr.net/gh/haiibo/OpenWrt/images/openwrt.png"/>
+<h1>固件云编译</h1>
 </div>
 
 ## 项目说明 [![](https://img.shields.io/badge/-项目基本介绍-FFFFFF.svg)](#项目说明-)
-- 固件构成：[![Lean](https://img.shields.io/badge/Lede-Lean-ff69b4.svg?style=flat&logo=appveyor)](https://github.com/coolsnowwolf/lede) [![P3TERX](https://img.shields.io/badge/OpenWrt-P3TERX-blueviolet.svg?style=flat&logo=appveyor)](https://github.com/P3TERX/Actions-OpenWrt) [![Flippy](https://img.shields.io/badge/Package-Flippy-orange.svg?style=flat&logo=appveyor)](https://github.com/unifreq/openwrt_packit) [![Haiibo]](https://github.com/haiibo/OpenWrt)
+- 固件构成：[![Lean]](https://github.com/coolsnowwolf/lede) [![P3TERX]](https://github.com/P3TERX/Actions-OpenWrt) [![Flippy]](https://github.com/unifreq/openwrt_packit) [![Haiibo]](https://github.com/haiibo/OpenWrt)
 - 项目使用 Github Actions 拉取 [Lean](https://github.com/coolsnowwolf/lede) 的 Openwrt 源码仓库进行云编译
 - 固件默认管理地址：`****` 默认用户：`root` 默认密码：`password`
 - 提供适配于 树莓派 固件
@@ -13,7 +13,7 @@
 - 第一次使用请采用全新安装，避免出现升级失败以及其他一些可能的 BUG
 
 
-## 固件特色 [![](https://img.shields.io/badge/-本项目固件特色-FFFFFF.svg)](#固件特色-)
+## 固件特色 
 1. 固件每天定时自动编译，以确保获得最新体验
 2. 集成部分常用有线、无线、3G / 4G 网卡驱动
 3. 集成中文版 netdata 实时监控插件，小白也能轻松看懂系统概况
@@ -28,7 +28,7 @@
 
 
 
-## 插件预览 [![](https://img.shields.io/badge/-固件插件及功能预览-FFFFFF.svg)](#插件预览-)
+## 插件预览 
 
 <details>
 <summary><b>&nbsp;RaspberryPi4</b></summary>
